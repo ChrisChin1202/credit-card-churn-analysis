@@ -52,7 +52,7 @@
 ### Tableau — 互動式洞察儀表板
 
 我把客群洞察做成可以點選互動的 Tableau 儀表板，發佈到 Tableau Public，任何人都能點開自己探索——點某個卡別，三張圖會一起連動。
-![圖片說明](images/tableau_dashboard.png)
+![圖片說明](images/tableau.dashboard.png)
 
 🔗 **線上互動版**：https://public.tableau.com/app/profile/chinyuchn/viz/_17816910160820/1_1
 
